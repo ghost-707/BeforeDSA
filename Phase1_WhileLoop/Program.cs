@@ -28,6 +28,7 @@ internal class Program
         Q16.CheckPerfectNumber(6);
         Q17.PrintPrimes1To100();
         Q18.CheckPrime(n);
+        Q19.PrintFibonacciSeriesTillN(13);
 
     }
 }
