@@ -31,6 +31,7 @@ internal class Program
         Q19.PrintFibonacciSeriesTillN(13);
         Q20.SumFibonacciSeriesTillN(13);
         Q21.PrintSquaresFrom1ToN(20);
+        Q22.PrintCubesFrom1ToN(20);
 
     }
 }
