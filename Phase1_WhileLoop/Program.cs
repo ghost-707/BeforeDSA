@@ -30,6 +30,7 @@ internal class Program
         Q18.CheckPrime(n);
         Q19.PrintFibonacciSeriesTillN(13);
         Q20.SumFibonacciSeriesTillN(13);
+        Q21.PrintSquaresFrom1ToN(20);
 
     }
 }
